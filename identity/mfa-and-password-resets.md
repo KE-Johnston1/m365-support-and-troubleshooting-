@@ -1,3 +1,4 @@
+Identity and MFA Troubleshooting
 Scenario
 User lost access to Authenticator app
 
@@ -19,7 +20,7 @@ What the user reports
 Steps taken
 Unlock account in Azure AD
 Check sign in logs
-Identify repeated failures from old device
+Identify repeated failures from an old device
 Clear saved credentials
 User signs in without issues
 
