@@ -1,13 +1,14 @@
+OneDrive Sync Issues
 Scenario
-OneDrive showing a red X on Desktop folder
+OneDrive showing a red X on the Desktop folder
 
 What the user reports
 “My Desktop isn’t syncing and I see a red X.”
 
 Steps taken
 Open OneDrive settings
-Check Account tab
-Unlink and re link account
+Check the Account tab
+Unlink and re link the account
 Run OneDrive reset
 Confirm Known Folder Move is enabled
 Sync restored
@@ -20,12 +21,12 @@ What the user reports
 
 Steps taken
 Check OneDrive online
-Confirm folder is shared with the user
+Confirm the folder is shared with the user
 Add shortcut to My Files
 Folder appears in File Explorer
 
 Scenario
-OneDrive stuck on “Processing changes” for hours
+OneDrive stuck on processing changes
 
 What the user reports
 “OneDrive says processing changes and never finishes.”
@@ -45,14 +46,14 @@ What the user reports
 “I click sync but nothing happens.”
 
 Steps taken
-Check if library has more than 300k items
-Confirm user has permission to the site
+Check if the library has more than 300k items
+Confirm the user has permission to the site
 Clear OneDrive cache
-Sync library through OneDrive online
+Sync the library through OneDrive online
 Library appears in File Explorer
 
 Scenario
-Known Folder Move fails with error about existing files
+Known Folder Move fails due to existing files
 
 What the user reports
 “I can’t back up my Desktop because of existing files.”
