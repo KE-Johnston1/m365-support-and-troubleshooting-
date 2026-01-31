@@ -1,5 +1,5 @@
 Support Guidance
-This file contains practical notes that help with decision making, escalation, and understanding common patterns in Microsoft 365 support. These are the habits and checks used in real IT environments to keep support efficient and consistent.
+This file contains practical notes that support decision making, escalation, and recognising common patterns in Microsoft 365 support. These habits and checks are used in real IT environments to keep support efficient and consistent.
 
 How to Escalate an Issue
 Escalation is a normal part of support work. It shows good judgement when used at the right time.
