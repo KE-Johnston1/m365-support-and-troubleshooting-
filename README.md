@@ -1,12 +1,12 @@
 🌐 Microsoft 365 Support and Troubleshooting Guide
 A practical project focused on real IT Support workflows.
 
-Overview
-This project brings together common Microsoft 365 issues and the steps used to troubleshoot them.It covers Outlook, OneDrive, Teams, identity, MFA, and device related problems. Everything is written in clear, simple language to reflect the way support is handled in real environments.
+Overview  
+This project brings together common Microsoft 365 issues and the steps used to troubleshoot them. It covers Outlook, OneDrive, Teams, identity, MFA, and device related problems. Everything is written in plain English and based on issues you see in real support environments.
 
-The aim is to build confidence, strengthen troubleshooting habits, and show how to communicate solutions in a way users understand.
+This project helped me build confidence, improve my troubleshooting habits, and practise explaining solutions clearly.
 
-Folder Structure
+Folder Structure  
 outlook
 Mail flow issues, profile problems, search faults, shared mailboxes, and authentication prompts.
 
@@ -28,8 +28,8 @@ Escalation guidance, service health checks, licensing checks, and common user er
 common fixes
 A quick reference sheet for fast triage in busy support environments.
 
-User Facing Guides
-Short, clear instructions written for users who need simple steps to fix common issues.
+User Facing Guides  
+These guides give users straightforward steps to fix common issues.
 
 Reset your Microsoft 365 password
 Go to https://aka.ms/sspr
@@ -66,19 +66,19 @@ Type outlook.exe  /safe
 Disable add ins
 Restart Outlook normally
 
-Growth Mindset Reflection
-When I started learning Microsoft 365 support, I often felt unsure about where issues were coming from. Identity, licensing, local apps, cloud services, Conditional Access, MFA — it can feel like a lot at first. Building this project helped me slow down, check the basics, and recognise the patterns behind common problems.
+Growth Mindset Reflection  
+When I first started learning Microsoft 365 support, I wasn’t always sure where issues were coming from. Identity, licensing, local apps, cloud services, Conditional Access, MFA it can feel like a lot at first. Building this project helped me slow down, check the basics, and recognise the patterns behind common problems.
 
-Working through each scenario taught me to stay calm, think step by step, and communicate clearly with users. It also helped me build confidence in my ability to troubleshoot real issues rather than just follow instructions. This project reflects my growth as a technician and my commitment to improving every day.
+Working through each scenario taught me to stay steady, think step by step, and communicate clearly with users. It also helped me build confidence in troubleshooting real issues rather than just following instructions. This project shows how my troubleshooting has improved over time.
 
-What I Learned
+What I Learned  
 Understanding Microsoft 365 behaviour
 Recognising common patterns in Outlook, OneDrive, Teams, and identity issues
 Using Microsoft Graph PowerShell for support tasks
 Documenting troubleshooting steps clearly
 Knowing when to escalate
 Building a structured knowledge base
-Developing calm, methodical troubleshooting habits
+Learning to troubleshoot in a steady, step by step way
 
 Final Notes
-This project is written in clear, human language and focuses on practical, real world troubleshooting. It reflects the type of work handled daily in IT Support and shows how I approach problems, communicate with users, and continue to grow my skills.
+This project is written in plain English and reflects the kind of issues handled every day in IT Support. It shows how I approach problems, work with users, and continue building my skills.
